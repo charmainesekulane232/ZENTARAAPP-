@@ -1,4 +1,4 @@
-ZENTARA
+ZentaraApp 
 
 AI-Powered Income Intelligence for Freelancers
 
@@ -10,11 +10,11 @@ Rather than functioning as a traditional budgeting app, Zentara focuses on proac
 
 ---
 
-🚀 Live demo
+Live demo
 Zentara - AI-Powered Income Intelligence for Freelancers https://share.google/RIlCgDVQx6LAG1oli
 ---
 
-✨ Core Features
+Core Features
 
 - AI-powered financial insights
 - Income and expense tracking
@@ -28,7 +28,7 @@ Zentara - AI-Powered Income Intelligence for Freelancers https://share.google/RI
 
 ---
 
-🔌 Investec API Integration
+Investec API Integration
 
 Zentara is designed around Investec Programmable Banking concepts and transaction intelligence.
 
@@ -44,7 +44,7 @@ This MVP prototype currently uses simulated financial data to demonstrate future
 
 ---
 
-💰 Monetisation Strategy
+Monetisation Strategy
 
 Free Plan
 
@@ -77,7 +77,7 @@ Zentara aims to become a financial operating system for freelancers and side hus
 - Investec API Architecture Concepts
 
 ---
-
+https://share.google/images/S3Ue61JXnvoF. JOkeB
 
 
 
