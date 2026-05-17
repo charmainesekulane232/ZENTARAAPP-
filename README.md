@@ -1,35 +1,96 @@
-# ZENTARAAPP-
+ZENTARA
 
-This is a [Next.js](https://nextjs.org) project bootstrapped with [v0](https://v0.app).
+AI-Powered Income Intelligence for Freelancers
 
-## Built with v0
+Zentara is a fintech intelligence platform designed for freelancers, creators, side hustlers, and young professionals.
 
-This repository is linked to a [v0](https://v0.app) project. You can continue developing by visiting the link below -- start new chats to make changes, and v0 will push commits directly to this repo. Every merge to `main` will automatically deploy.
+Built for the Investec Q2 2026 API Side Hustle Challenge, Zentara transforms financial transaction data into AI-powered insights that help users better understand income patterns, spending behaviour, profitability, and financial growth opportunities.
 
-[Continue working on v0 →](https://v0.app/chat/projects/prj_GlAO5ZFfqmdiSR3FUl1436xq0lam)
+Rather than functioning as a traditional budgeting app, Zentara focuses on proactive financial intelligence and side hustle growth.
 
-## Getting Started
+---
 
-First, run the development server:
+🚀 Live demo
+Zentara - AI-Powered Income Intelligence for Freelancers https://share.google/RIlCgDVQx6LAG1oli
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+✨ Core Features
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- AI-powered financial insights
+- Income and expense tracking
+- Side hustle profitability analysis
+- Transaction categorisation
+- Smart analytics dashboard
+- AI Profit Coach
+- Spending behaviour analysis
+- Premium subscription model
+- Mobile-first fintech experience
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-## Learn More
+🔌 Investec API Integration
 
-To learn more, take a look at the following resources:
+Zentara is designed around Investec Programmable Banking concepts and transaction intelligence.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-- [v0 Documentation](https://v0.app/docs) - learn about v0 and how to use it.
+The platform uses transaction data to:
 
-<a href="https://v0.app/chat/api/kiro/clone/charmainesekulane232/ZENTARAAPP-" alt="Open in Kiro"><img src="https://pdgvvgmkdvyeydso.public.blob.vercel-storage.com/open%20in%20kiro.svg?sanitize=true" /></a>
+- analyse spending patterns
+- identify recurring subscriptions
+- track freelance income
+- monitor financial growth
+- generate AI-powered financial recommendations
+
+This MVP prototype currently uses simulated financial data to demonstrate future Investec API integration architecture.
+
+---
+
+💰 Monetisation Strategy
+
+Free Plan
+
+- Basic analytics
+- Expense categorisation
+- Monthly summaries
+
+Premium Plan
+
+- AI Profit Coach
+- Advanced analytics
+- Smart recommendations
+- Financial growth insights
+- Custom reports
+
+---
+
+🧠 Vision
+
+Zentara aims to become a financial operating system for freelancers and side hustlers by combining fintech analytics, behavioural insights, and AI-powered financial coaching into one intelligent platform.
+
+---
+
+🛠️ Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- Vercel / v0
+- Investec API Architecture Concepts
+
+---
+
+
+
+
+---
+
+⚠️ Current Status
+
+Prototype / MVP
+
+This project focuses on validating the product idea, user experience, monetisation strategy, and Investec API integration workflow for the Investec API Side Hustle Challenge.
+
+---
+
+📄 License
+
+MIT License
