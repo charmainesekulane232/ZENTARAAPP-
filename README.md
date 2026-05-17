@@ -74,11 +74,10 @@ Zentara aims to become a financial operating system for freelancers and side hus
 - React
 - Tailwind CSS
 - Vercel / v0
-- Investec API Architecture Concepts
+- Investec API Architecture
+  
 
----
-https://share.google/images/S3Ue61JXnvoF. JOkeB
-
+![App Screenshot](your-image-name.png)
 
 
 ---
