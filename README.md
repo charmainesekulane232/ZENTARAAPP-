@@ -1,95 +1,129 @@
-ZentaraApp 
+# Zentara 💜
+AI-powered income intelligence for freelancers, side hustlers, and independent workers.
 
-AI-Powered Income Intelligence for Freelancers
+**Version 1.0.0 | Investec Programmable Banking + AI-driven income insights**
 
-Zentara is a fintech intelligence platform designed for freelancers, creators, side hustlers, and young professionals.
+Zentara is a financial intelligence platform designed to help freelancers understand not only where money goes, but how income grows.
 
-Built for the Investec Q2 2026 API Side Hustle Challenge, Zentara transforms financial transaction data into AI-powered insights that help users better understand income patterns, spending behaviour, profitability, and financial growth opportunities.
+Traditional finance apps focus on expense tracking.
 
-Rather than functioning as a traditional budgeting app, Zentara focuses on proactive financial intelligence and side hustle growth.
+Zentara focuses on **income visibility, profitability, and growth opportunities.**
 
----
-
-Live demo
-Zentara - AI-Powered Income Intelligence for Freelancers https://share.google/RIlCgDVQx6LAG1oli
----
-
-Core Features
-
-- AI-powered financial insights
-- Income and expense tracking
-- Side hustle profitability analysis
-- Transaction categorisation
-- Smart analytics dashboard
-- AI Profit Coach
-- Spending behaviour analysis
-- Premium subscription model
-- Mobile-first fintech experience
+Using Investec Programmable Banking transaction data, Zentara analyses earnings, expenses, and transaction behaviour to generate insights that help users understand their financial performance and make better decisions.
 
 ---
 
-Investec API Integration
+## The Problem
 
-Zentara is designed around Investec Programmable Banking concepts and transaction intelligence.
+Freelancers and side hustlers often receive income from multiple sources:
 
-The platform uses transaction data to:
+- Freelance projects
+- Side businesses
+- Contract work
+- Gig platforms
+- Small services
 
-- analyse spending patterns
-- identify recurring subscriptions
-- track freelance income
-- monitor financial growth
-- generate AI-powered financial recommendations
+Most banking applications show balances and spending history, but they do not answer questions such as:
 
-This MVP prototype currently uses simulated financial data to demonstrate future Investec API integration architecture.
+- Which income source performs best?
+- Am I profitable this month?
+- How much am I actually earning?
+- Which activities increase income?
+
+This creates a gap in financial visibility for independent workers.
 
 ---
 
-Monetisation Strategy
+## Solution
 
-Free Plan
+Zentara transforms transaction data into income intelligence.
 
-- Basic analytics
-- Expense categorisation
+The platform analyses user transactions and provides:
+
+- Income tracking
+- Expense monitoring
+- Smart categorisation
+- Net profit analysis
+- AI-generated insights
+- Growth recommendations
+- Performance summaries
+
+---
+
+## Investec Integration
+
+Zentara uses Investec Programmable Banking (Sandbox) as a core component of the platform.
+
+Current integration scope:
+
+- Transaction history
+- Account insights
+- Categorisation pipeline
+- Income analysis engine
+- Future card/rule automation support
+
+Investec integration is used as part of the financial intelligence layer rather than simple balance visualisation.
+
+---
+
+## AI Profit Coach
+
+The AI insight engine analyses:
+
+Inputs:
+- Transactions
+- Income sources
+- Categories
+- Goals
+- Performance trends
+
+Outputs:
+- Pricing recommendations
+- Earnings opportunities
+- Growth insights
+- Smart alerts
+- Monthly performance reports
+
+---
+
+## Monetisation
+
+### Free Tier
+- Transaction tracking
+- Income analysis
 - Monthly summaries
 
-Premium Plan
+### Zentara Premium (R49.99/month)
 
 - AI Profit Coach
 - Advanced analytics
-- Smart recommendations
-- Financial growth insights
-- Custom reports
+- Growth recommendations
+- Reports
+- Enhanced insights
 
 ---
 
-🧠 Vision
+## Technology
 
-Zentara aims to become a financial operating system for freelancers and side hustlers by combining fintech analytics, behavioural insights, and AI-powered financial coaching into one intelligent platform.
+Frontend:
+- Flutter / Web Prototype
+- v0-assisted UI prototyping
 
----
+Backend:
+- API integration layer
+- AI insight engine
 
-🛠️ Tech Stack
-
-- Next.js
-- React
-- Tailwind CSS
-- Vercel / v0
-- Investec API Architecture
-  
-
-![App Screenshot](your-image-name.png)
-
+Banking:
+- Investec Programmable Banking (Sandbox)
 
 ---
 
-⚠️ Current Status
+## Development Note
 
-Prototype / MVP
+This project includes AI-assisted prototyping tools for rapid UI visualisation and concept validation.
 
-This project focuses on validating the product idea, user experience, monetisation strategy, and Investec API integration workflow for the Investec API Side Hustle Challenge.
+Product concept, architecture direction, feature design, documentation, and integration planning were created by the developer.
 
 ---
 
-📄 License
-
-MIT License
+Track. Analyse. Grow.
