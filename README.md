@@ -11,6 +11,14 @@ Zentara focuses on **income visibility, profitability, and growth opportunities.
 
 Using Investec Programmable Banking transaction data, Zentara analyses earnings, expenses, and transaction behaviour to generate insights that help users understand their financial performance and make better decisions.
 
+
+## 📱 Zentara in Action
+
+![Mobile Screens](file_00000000650c71f5b59b82c3f993f8d5.png)
+
+## ⚙️ Architecture
+
+![Architecture](docs/images/architecture.png)
 ---
 
 ## The Problem
