@@ -36,6 +36,104 @@ Includes:
 - Transaction insights
 - Monetisation model
 
+
+# 🚀 Getting Started
+
+This guide will help you run Zentara locally on your machine.
+
+## 📦 Prerequisites
+
+Before you start, make sure you have the following installed:
+
+- Node.js (v18 or higher)
+- npm (comes with Node.js)
+- Git
+
+## 🛠️ Installation
+
+Clone the repository:
+
+git clone https://github.com/your-username/zentara.git
+
+Go into the project folder:
+
+cd zentara
+
+Install dependencies:
+
+npm install
+
+## 🚀 Running the App
+
+Start the development server:
+
+npm run dev
+
+Then open your browser and go to:
+
+http://localhost:3000
+
+## ⚙️ Environment Variables (if needed)
+
+If your project uses environment variables, create a .env.local file in the root folder:
+
+touch .env.local
+
+Add your variables inside it:
+
+NEXT_PUBLIC_API_URL=your_api_url_here
+NEXT_PUBLIC_INVESTEC_API_KEY=your_api_key_here
+
+## 📁 Project Structure
+
+app/ → Main application pages (Next.js routes)
+components/ → Reusable UI components
+lib/ → Utility functions and API logic
+public/ → Static assets
+
+## 🤝 Contributing
+
+We welcome contributions to Zentara.
+
+Fork the repository
+
+Create a new branch:
+git checkout -b feature/your-feature-name
+
+Make your changes
+
+Commit your changes:
+git commit -m "Add: description of your changes"
+
+Push your branch:
+git push origin feature/your-feature-name
+
+Open a Pull Request
+
+## 🧾 Development Workflow
+
+Main branch contains stable code
+
+Feature branches are used for new development
+
+Commit messages should be clear and descriptive
+
+Examples:
+Add: dashboard UI improvements
+Fix: API integration bug
+Update: transaction logic improvements
+
+## 🧠 Notes
+
+This project was built using modern AI-assisted development tools for rapid prototyping and UI generation. The core product idea, structure, and financial intelligence system were designed by the developer.
+
+## 📌 Quick Run Summary
+
+git clone https://github.com/your-username/zentara.git
+cd zentara
+npm install
+npm run dev
+
 ## The Problem
 
 Freelancers and side hustlers often receive income from multiple sources:
