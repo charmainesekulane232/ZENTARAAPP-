@@ -21,6 +21,21 @@ Using Investec Programmable Banking transaction data, Zentara analyses earnings,
 ![Architecture](file_0000000069d8722f83dc33a4b1f9a27e.png)
 ---
 
+## 🎥 Demo Video
+
+Watch product walkthrough:
+
+▶️ [Demo Video](https://streamable.com/oa5qye?src=player-page-share)
+
+
+
+Includes:
+
+- Mobile walkthrough
+- AI Profit Coach flow
+- Transaction insights
+- Monetisation model
+
 ## The Problem
 
 Freelancers and side hustlers often receive income from multiple sources:
