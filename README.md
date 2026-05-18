@@ -1,4 +1,4 @@
-# Zentara 💜
+# Zentara APP
 AI-powered income intelligence for freelancers, side hustlers, and independent workers.
 
 **Version 1.0.0 | Investec Programmable Banking + AI-driven income insights**
@@ -18,7 +18,7 @@ Using Investec Programmable Banking transaction data, Zentara analyses earnings,
 
 ## ⚙️ Architecture
 
-![Architecture](docs/images/architecture.png)
+![Architecture](file_0000000069d8722f83dc33a4b1f9a27e.png)
 ---
 
 ## The Problem
